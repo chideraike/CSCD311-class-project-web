@@ -1,12 +1,5 @@
-This is the front-end of the Web Tech assignment
-
-Supposed to run with the API
-
-Use [test@test.com] and [test] as email and password incase you can't login.
-
-## The Code to use
-Use `npm start` on the terminal to run it.<br />
-
+# I AM STILL WORKING ON IT
+# -------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
